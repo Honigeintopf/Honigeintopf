@@ -13,7 +13,7 @@ Als zielstrebiger Softwareentwickler mit dem Traum, Softwarearchitekt zu werden,
 
 - **Sprachen**: Java, C#, Python, Node.js, Typescript
 - **Web**: Angular
-- **Frameworks**: Spring Framework, Express
+- **Frameworks**: Spring Framework, Express, Electron
 - **DevOps**: Docker, AWS-Entwicklung, Continuous Integration/Delivery
 - **Tools**: Versionsverwaltung, SOLID, Softwarearchitektur
 
