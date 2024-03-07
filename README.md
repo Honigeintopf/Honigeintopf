@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hallo, ich bin Ebubekir Ates 👋
 
-<!--
-**Honigeintopf/Honigeintopf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | Passionate about Java, Angular, and Cloud Technologies
 
-Here are some ideas to get you started:
+Als zielstrebiger Softwareentwickler mit dem Traum, Softwarearchitekt zu werden, verbringe ich nicht nur meine berufliche Zeit mit Code, sondern widme mich auch in meiner Freizeit leidenschaftlich eigenen Projekten. Besonders am Herzen liegt mir die Entwicklung von Spielen, wo ich meine Kreativität und technischen Fähigkeiten voll entfalten kann. Ich glaube fest daran, dass durch ständige Weiterbildung und das Experimentieren mit neuen Ideen großartige Produkte entstehen können.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Berufserfahrung
+
+- **Software-Entwickler** bei adessoSE, Augsburg (Dezember 2022 - heute)
+- **Systemadministrator** bei Bestseller Consulting, München (September 2021 - Juni 2022)
+
+### 🌱 Fähigkeiten
+
+- **Sprachen**: Java, C#
+- **Web**: Angular
+- **Frameworks**: Spring Framework
+- **DevOps**: Docker, AWS-Entwicklung, Continuous Integration/Delivery
+- **Tools**: Versionsverwaltung
+
+### 📫 Kontakt
+
+- **E-Mail**: ebubekir.ates@outlook.de
+- **LinkedIn**: [Ihr LinkedIn Profil](Ihre LinkedIn URL)
+- **GitHub**: [@Honigeintopf](https://github.com/Honigeintopf)
+
+### 💻 Freizeitprojekte
+
+Ich genieße es, meine freie Zeit mit der Entwicklung von Spielen und der Arbeit an diversen Softwareprojekten zu verbringen. Diese Projekte ermöglichen es mir, neue Technologien zu erforschen und meine Fähigkeiten in einer Vielzahl von Bereichen weiterzuentwickeln.
+
+### 🌍 Sprachen
+
+- Deutsch (Muttersprache)
+- Englisch (Sehr gute Kenntnisse)
+- Türkisch (Gute Kenntnisse)
+
+Werfen Sie einen Blick auf meine [Projekte](https://github.com/Honigeintopf?tab=repositories) oder kontaktieren Sie mich direkt, um mehr über meine Arbeit und Interessen zu erfahren!
