@@ -11,11 +11,11 @@ Als zielstrebiger Softwareentwickler mit dem Traum, Softwarearchitekt zu werden,
 
 ### 🌱 Fähigkeiten
 
-- **Sprachen**: Java, C#
+- **Sprachen**: Java, C#, Python, Node.js, Typescript
 - **Web**: Angular
-- **Frameworks**: Spring Framework
+- **Frameworks**: Spring Framework, Express
 - **DevOps**: Docker, AWS-Entwicklung, Continuous Integration/Delivery
-- **Tools**: Versionsverwaltung
+- **Tools**: Versionsverwaltung, SOLID, Softwarearchitektur
 
 ### 📫 Kontakt
 
