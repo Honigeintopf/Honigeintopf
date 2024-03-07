@@ -1,6 +1,6 @@
 # Hallo, ich bin Ebubekir Ates 👋
 
-## Software Engineer | Passionate about Java, Angular, and Cloud Technologies
+## Software Engineer
 
 Als zielstrebiger Softwareentwickler mit dem Traum, Softwarearchitekt zu werden, verbringe ich nicht nur meine berufliche Zeit mit Code, sondern widme mich auch in meiner Freizeit leidenschaftlich eigenen Projekten. Besonders am Herzen liegt mir die Entwicklung von Spielen, wo ich meine Kreativität und technischen Fähigkeiten voll entfalten kann. Ich glaube fest daran, dass durch ständige Weiterbildung und das Experimentieren mit neuen Ideen großartige Produkte entstehen können.
 
@@ -20,7 +20,7 @@ Als zielstrebiger Softwareentwickler mit dem Traum, Softwarearchitekt zu werden,
 ### 📫 Kontakt
 
 - **E-Mail**: ebubekir.ates@outlook.de
-- **LinkedIn**: [Ihr LinkedIn Profil](Ihre LinkedIn URL)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ebubekir-ates-2513a5259/)
 - **GitHub**: [@Honigeintopf](https://github.com/Honigeintopf)
 
 ### 💻 Freizeitprojekte
