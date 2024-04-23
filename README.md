@@ -6,7 +6,7 @@ Als zielstrebiger Softwareentwickler mit dem Traum, Softwarearchitekt zu werden,
 
 ### 🔭 Berufserfahrung
 
-- **Software-Entwickler** bei adessoSE, Augsburg (Dezember 2022 - heute)
+- **Software-Entwickler** bei adessoSE, Augsburg (Dezember 2022 - April 2024)
 - **Systemadministrator** bei Bestseller Consulting, München (September 2021 - Juni 2022)
 
 ### 🌱 Fähigkeiten
