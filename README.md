@@ -5,7 +5,7 @@
 Als zielstrebiger Softwareentwickler mit dem Traum, Softwarearchitekt zu werden, verbringe ich nicht nur meine berufliche Zeit mit Code, sondern widme mich auch in meiner Freizeit leidenschaftlich eigenen Projekten. Besonders am Herzen liegt mir die Entwicklung von Spielen, wo ich meine Kreativität und technischen Fähigkeiten voll entfalten kann. Ich glaube fest daran, dass durch ständige Weiterbildung und das Experimentieren mit neuen Ideen großartige Produkte entstehen können.
 
 ### 🔭 Berufserfahrung
-
+- **Sofware-Entwickler** bei X-cellent, München (April 2024 - Heute)
 - **Software-Entwickler** bei adessoSE, Augsburg (Dezember 2022 - April 2024)
 - **Systemadministrator** bei Bestseller Consulting, München (September 2021 - Juni 2022)
 
