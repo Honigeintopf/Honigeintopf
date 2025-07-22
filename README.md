@@ -33,4 +33,3 @@ Ich genieße es, meine freie Zeit mit der Entwicklung von Spielen und der Arbeit
 - Englisch (Sehr gute Kenntnisse)
 - Türkisch (Gute Kenntnisse)
 
-Werfen Sie einen Blick auf meine [Projekte](https://github.com/Honigeintopf?tab=repositories) oder kontaktieren Sie mich direkt, um mehr über meine Arbeit und Interessen zu erfahren!
